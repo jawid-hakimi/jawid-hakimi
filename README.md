@@ -22,10 +22,17 @@ I build modern, responsive, and user-friendly web applications with **React, Nex
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical&hide_border=true)](https://git.io/streak-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical" alt="Top Languages" width="300"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical" 
+       alt="Streak Stats" 
+       style="height: 200px; object-fit: contain; max-width: 500px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       style="height: 200px; object-fit: contain; max-width: 300px;"/>
+</div>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawid-hakimi&theme=radical" alt="Activity Graph"/>
