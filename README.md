@@ -2,36 +2,44 @@
 
 💻 Front-end Developer | 🎨 UI/UX Designer  
 
-Welcome to my GitHub profile!  
-I love building modern, responsive, and user-friendly web applications with **React, Next.js, and TypeScript**.  
+I build modern, responsive, and user-friendly web applications with **React, Next.js, TypeScript**, and **TailwindCSS**.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawid-hakimi&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical&hide_border=true)](https://git.io/streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawid-hakimi&theme=radical" alt="Activity Graph"/>
+</p>
+
 
 ---
 
-## 📫 Connect with me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 📧 Email: hakimi.work2025@gmail.com  
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:hakimi.work2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
