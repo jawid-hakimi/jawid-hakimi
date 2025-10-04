@@ -34,12 +34,13 @@ I build modern, responsive, and user-friendly web applications with **React, Nex
 </table>
 
 
-
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawid-hakimi&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawid-hakimi&bg_color=1e293b&color=3b82f6&line=94a3b8&point=60a5fa&area=true" alt="Activity Graph"/>
 </p>
+
+
+
+
 
 
 ---
