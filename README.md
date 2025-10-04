@@ -21,7 +21,8 @@ I love building modern, responsive, and user-friendly web applications with **Re
 
 ## 📊 GitHub Stats
 
-![Jawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawid-hakimi&show_icons=true&count_private=true&theme=radical)
+![Jawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawid-hakimi&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical)
 
 ---
