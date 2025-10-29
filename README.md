@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jawid Hakimi  
+# 👋 Hi, I'm Besmillah Hakimi  
 
 💻 Front-end Developer | 🎨 UI/UX Designer  
 
@@ -25,16 +25,16 @@ I build modern, responsive, and user-friendly web applications with **React, Nex
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=jawid-hakimi&theme=radical" alt="Streak Stats" width="400"/>
+      <img src="https://streak-stats.demolab.com?user=bes-hakimi&theme=radical" alt="Streak Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawid-hakimi&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bes-hakimi&layout=compact&theme=radical" alt="Top Languages" width="300"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawid-hakimi&bg_color=1e293b&color=3b82f6&line=94a3b8&point=60a5fa&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bes-hakimi&bg_color=1e293b&color=3b82f6&line=94a3b8&point=60a5fa&area=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -48,4 +48,4 @@ I build modern, responsive, and user-friendly web applications with **React, Nex
 
 ---
 
-⭐️ From [jawid-hakimi](https://github.com/jawid-hakimi)
+⭐️ From [bes-hakimi](https://github.com/bes-hakimi)
