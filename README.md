@@ -10,14 +10,14 @@
 
 # Hi, I'm Besmillah Hakimi
 
-💻 **Front-end Developer** | 🎨 **UI/UX Designer**  
+**Front-end Developer** | **UI/UX Designer**  
 
 I build modern, responsive, and user-friendly web applications with **React, Next.js, TypeScript**, and **TailwindCSS**.  
 I love combining clean design with solid code to create exceptional digital experiences.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -30,7 +30,7 @@ I love combining clean design with solid code to create exceptional digital expe
 </p>
 
 ---
-## 💼 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
@@ -80,7 +80,7 @@ I love combining clean design with solid code to create exceptional digital expe
 </table>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="150em" src="https://streak-stats.demolab.com?user=bes-hakimi&theme=tokyonight&hide_border=true" alt="Streak Stats" />
@@ -93,7 +93,7 @@ I love combining clean design with solid code to create exceptional digital expe
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:hakimi.work2025@gmail.com">
@@ -110,4 +110,4 @@ I love combining clean design with solid code to create exceptional digital expe
   <i>"Design is intelligence made visible — and code is how we make it real."</i>
 </p>
 
-⭐️ From [bes-hakimi](https://github.com/bes-hakimi)
+From [bes-hakimi](https://github.com/bes-hakimi)
