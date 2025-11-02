@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Sfgd2xF/github-banner-dark.png" alt="Besmillah Hakimi Banner" width="100%" />
+  <img src="https://github.com/bes-hakimi/bes-hakimi/blob/main/assets/banner/github-banner.png" alt="Besmillah Hakimi Banner" width="100%" />
 </p>
 
 <!-- Animated intro -->
