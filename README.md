@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Next.js+%26+TypeScript+Lover" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Besmillah Hakimi 👋  
+# Hi, I'm Besmillah Hakimi
 
 💻 **Front-end Developer** | 🎨 **UI/UX Designer**  
 
@@ -30,29 +30,54 @@ I love combining clean design with solid code to create exceptional digital expe
 </p>
 
 ---
-
 ## 💼 Featured Projects
 
-<p align="center">
-  <a href="https://hewadhela.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Hewad%20Hela-0f172a?style=for-the-badge&logo=vercel&logoColor=06B6D4&labelColor=0f172a" alt="Hewad Hela"/>
-  </a>
-  <a href="https://afghan-kala.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Afghan%20Kala-0f172a?style=for-the-badge&logo=next.js&logoColor=06B6D4&labelColor=0f172a" alt="Afghan Kala"/>
-  </a>
-  <a href="https://bookstore-lime-rho.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Bookstore%20App-0f172a?style=for-the-badge&logo=react&logoColor=06B6D4&labelColor=0f172a" alt="Bookstore App"/>
-  </a>
-  <a href="https://admin-dashboard-vpwf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Admin%20Dashboard-0f172a?style=for-the-badge&logo=typescript&logoColor=06B6D4&labelColor=0f172a" alt="Admin Dashboard"/>
-  </a>
-  <a href="https://code-brand.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Code%20Brand-0f172a?style=for-the-badge&logo=figma&logoColor=06B6D4&labelColor=0f172a" alt="Code Brand"/>
-  </a>
-  <a href="https://besmillah-hakimi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0f172a" alt="Portfolio"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://hewadhela.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/hewad-hela.png" alt="Hewad Hela" width="96" height="96"/>
+        <br/>
+        <strong>Hewad Hela</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://afghan-kala.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/afghan-kala.png" alt="Afghan Kala" width="96" height="96""/>
+        <br/>
+        <strong>Afghan Kala</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bookstore-lime-rho.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/bookstore.png" alt="Bookstore" width="96" height="96"/>
+        <br/>
+        <strong>Bookstore App</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code-brand.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/code-brand.png" alt="Code Brand" width="96" height="96"/>
+        <br/>
+        <strong>Code Brand</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://admin-dashboard-vpwf.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/admin-dashboard.png" alt="Admin Dashboard" width="96" height="96"/>
+        <br/>
+        <strong>Admin Dashboard</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://besmillah-hakimi.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/bes-hakimi/bes-hakimi/main/assets/logos/portfolio.png" alt="Portfolio" width="96" height="96"/>
+        <br/>
+        <strong>Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
