@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Besmillah Hakimi
+# I'm Besmillah
 
-**Front-end Developer** | **UI/UX Designer**  
+*Front-end Developer* | *UI/UX Designer*
 
 I build modern, responsive, and user-friendly web applications with **React, Next.js, TypeScript**, and **TailwindCSS**.  
 I love combining clean design with solid code to create exceptional digital experiences.  
