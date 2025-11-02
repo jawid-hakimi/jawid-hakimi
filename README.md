@@ -5,7 +5,7 @@
 
 <!-- Animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Next.js+%26+TypeScript+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Besmillah Hakimi
